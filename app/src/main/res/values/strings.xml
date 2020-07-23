@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GrapeVine</string>
+    <string name="grapevine">Grapevine </string>
+    <string name="sign_in_to_">Sign in to your account</string>
+    <string name="forgot_your">Forgot your Password?</string>
+    <string name="continuename">Continue</string>
+</resources>
